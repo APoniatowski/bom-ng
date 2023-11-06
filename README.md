@@ -1,8 +1,10 @@
 # Bug Out Monitor
 
-The Bug Out Monitor is a Python script that monitors news articles for mentions of specific keywords related to international conflicts. When the script detects relevant keywords in the news, it sends notifications and plays a voice alert on your system.
+The Bug Out Monitor is a Go application (protoryped in python) that monitors news articles for mentions of specific keywords related to international conflicts. When the script detects relevant keywords in the news, it sends notifications and plays a voice alert on your system.
 
-As you all know, Wagner et al are eager to make a move, with opposing leaders throwing their arms up saying "We don't know how we can stop them". So I decided to create a bug out monitor, so that it can alert me of any invasions to bug out, if needed.
+As you all know, Wagner et al are (or were) eager to make a move, with opposing leaders throwing their arms up saying "We don't know how we can stop them". So I decided to create a bug out monitor, so that it can alert me of any invasions to bug out, if needed.
+
+And now the mess in the middle east has started not too long ago.
 
 If you'd like to contribute, you are free to do so. There are no rules, besides me reviewing PRs. But most likely I will approve it. 
 
